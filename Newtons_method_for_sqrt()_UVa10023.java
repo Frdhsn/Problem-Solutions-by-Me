@@ -7,7 +7,7 @@
 
 import java.util.*;
 import java.math.*;
-public class Newtonssqrt {
+public class Main {
     public static void main (String args[])
     {
         Scanner inp = new Scanner(System.in);
