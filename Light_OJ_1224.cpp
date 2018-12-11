@@ -1,5 +1,5 @@
 /*
-  Author : Farhad
+      Author : Farhad
 */
 #include<bits/stdc++.h>
 using namespace std;
